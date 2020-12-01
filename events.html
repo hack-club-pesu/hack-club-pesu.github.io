@@ -17,7 +17,7 @@ title: Events
 
 	{% for event in site.hackevents %}
         <section class="spotlight">
-          <div class="image"><img src="{{ site.baseurl }}/images/{{ project.icimage }}" alt="" /></div><div class="content">
+          <div class="image"><img src="{{ site.baseurl }}/images/{{ event.icimage }}" alt="" /></div><div class="content">
             <h2><a href="{{ event.url }}">{{ event.title }}</a></h2>
             <p>{{ event.excerpt }}</p>
           </div>

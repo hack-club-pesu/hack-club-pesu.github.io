@@ -5,7 +5,7 @@ title: Launch Event
 metacontent: Launch,HACK,FPGA
 
 bgimage: 
-icimage: 
+icimage:
 ---
 
 # **Welcome to** HACK **club inaugural event!**
@@ -43,6 +43,8 @@ focusing mostly on Computer Vision, Natural Language Processing and Machine
 Learning. He holds a Doctoral degree in Artificial Intelligence and Master's in Signal
 Processing from National Institute of Technology, Rourkela, India.
 
+**Event Poster:**
 
+<p style="text-align:center"><a href="{{ site.baseurl }}/index.html"> <img src="https://docs.google.com/drawings/d/e/2PACX-1vSkojZGaluMzL72afMN2KNGxmAj0TedITo_HqFINft-YqC2wCirni58vpYvqA3odnrufbyD4KcsbdEH/pub?w=600&amp;h=768"></a></p>
 
 
