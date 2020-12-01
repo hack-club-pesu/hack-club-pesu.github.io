@@ -1,0 +1,9 @@
+collections_dir: content
+
+collections:
+  blog:
+    output: true
+  projects:
+    output: true
+  hackevents:
+    output: true

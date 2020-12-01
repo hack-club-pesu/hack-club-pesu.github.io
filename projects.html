@@ -1,0 +1,29 @@
+---
+layout: default
+title: Projects
+---
+<body class="is-preload">
+  
+  <!-- Page Wrapper -->
+  <div id="page-wrapper">
+    
+    <!-- Main -->
+    <article id="main">
+      <header>
+        <h2>Projects</h2>
+      </header>
+      
+      <section id="two" class="wrapper alt style2">
+
+	{% for project in site.projects %}
+        <section class="spotlight">
+          <div class="image"><img src="{{ site.baseurl }}/images/{{ project.icimage }}" alt="" /></div><div class="content">
+            <h2><a href="{{ project.url }}">{{ project.title }}</a></h2>
+            <p>{{ project.excerpt }}</p>
+          </div>
+        </section>
+	{% endfor %}
+	
+      </section>
+    </article>
+</body>
