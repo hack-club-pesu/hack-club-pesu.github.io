@@ -13,7 +13,7 @@ icimage: hac_black.png
  >**Dates**: 16-18 February 2021,<br/>
  >**Venue**: Will be announced shortly.
 
-As Moore’s Law slows down, there is increasing interest in the use of hardware accelerators, especially for big data AI/ML workloads. Examples include Google’s Tensor Processing Units and the recent Inferentia from Amazon. HACK club presents a 3-day workshop for getting started with hardware acceleration. The workshop aims to introduce you to an overview of hardware acceleration for ML/Big-Data workloads, high-level design framework for hardware design and industry standard CAD tools for Intel FPGAs.
+As Moore’s Law slows down, there is increasing interest in the use of hardware accelerators, especially for ML / Big Data workloads. Examples include Google’s Tensor Processing Units and the recent Inferentia from Amazon. HACK club presents a 3-day workshop for getting started with hardware acceleration. The workshop aims to introduce you to an overview of hardware acceleration for ML / Big Data workloads, high-level design framework for hardware design and industry standard CAD tools for Intel FPGAs.
 
 **Agenda for the workshop:**
 
@@ -36,9 +36,9 @@ As Moore’s Law slows down, there is increasing interest in the use of hardware
 
 Announcement of results will be done through email.
 
-Registration is compulsory for attending the workshop. Kindly fill [this form]() for registering to the workshop.
+Registration is compulsory for attending the workshop. Kindly fill [this form](https://forms.gle/j8hX6Mqobcv2JMYUA) for registering to the workshop.
 
 
 **Event Poster:**
 
-<p style="text-align:center"><a href="{{ site.baseurl }}/index.html"> <img src="https://docs.google.com/drawings/d/e/2PACX-1vRgoZdEaiLYJIDDC1RoqKHYwK91rA-P3hQdX8bc9aW2JJK2F-7uU-y3n7lOuWh4WPDTcySJzaXzh8MB/pub?w=600&amp;h=768"></a></p>
+<p style="text-align:center"><a href="https://forms.gle/j8hX6Mqobcv2JMYUA"> <img src="https://docs.google.com/drawings/d/e/2PACX-1vRgoZdEaiLYJIDDC1RoqKHYwK91rA-P3hQdX8bc9aW2JJK2F-7uU-y3n7lOuWh4WPDTcySJzaXzh8MB/pub?w=600&amp;h=768"></a></p>
