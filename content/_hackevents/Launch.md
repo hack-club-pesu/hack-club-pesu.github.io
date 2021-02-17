@@ -4,8 +4,8 @@ layout: events
 title: Launch Event
 metacontent: Launch,HACK,FPGA
 
-bgimage: hac_black.png
-icimage: hac_black.png
+bgimage: hac_black.svg
+icimage: hac_black.svg
 ---
 
 # **Welcome to** HACK **club inaugural event!**
