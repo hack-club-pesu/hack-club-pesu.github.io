@@ -35,9 +35,17 @@ As Moore’s Law slows down, there is increasing interest in the use of hardware
 
 There will be a 48 hours design challenge which will be announced after the second session concludes on 25<sup>th</sup> February 2021. Announcement of the results will be done through email.
 
-Registration is compulsory for attending the workshop. Kindly fill [this form](https://forms.gle/j8hX6Mqobcv2JMYUA) for registering to the workshop.
+Registration is compulsory for attending the workshop. Kindly fill [~~this form~~](https://forms.gle/j8hX6Mqobcv2JMYUA) for registering to the workshop.
 
 
 **Event Poster:**
 
 <p style="text-align:center"><a href="https://forms.gle/j8hX6Mqobcv2JMYUA"> <img src="https://docs.google.com/drawings/d/e/2PACX-1vRgoZdEaiLYJIDDC1RoqKHYwK91rA-P3hQdX8bc9aW2JJK2F-7uU-y3n7lOuWh4WPDTcySJzaXzh8MB/pub?w=600&amp;h=768"></a></p>
+
+**Resources**
+- Steps for solving assignments (iverilog, gtkwave) 0, 1, 2, and 3 [link here](https://docs.google.com/presentation/d/1iscO48C7LxVUBjR4SxHXm6BCpiBSl-z-EKqSeVP_NFE/edit?usp=sharing).
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQQHcmHgCyvfH1UCo9F_5ci7fHsUtl9V1tOg0acScciSHCYdjNbS5dvJXnRPYjQaElZbFnYGkdYnSFl/embed?start=false&loop=false&delayms=60000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+- Theory material for assignment 6 and 7 [link here](https://docs.google.com/presentation/d/1QI5qhRFKKvETF3CzDpVZPTR4F8X5posClSaAW9hjKho/edit?usp=sharing).
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQxjAzmRkPde2URH6Ek6NZRzKMkZbaJxyaExJfGasw8cvybMqOQE09niLIEURdRR78VdgbLO6lBjRhb/embed?start=false&loop=false&delayms=60000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+- Steps for solving assignment (using quartus tool) 8 [link here](https://docs.google.com/presentation/d/1yLBnL5gJdtu5C18bZnlTz93J9Jy5tvA3ajTzZXqKvHg/edit?usp=sharing).
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vR5OGejDt7qKDLOUVL9gO4X5I1IFpjx9KwPbtevfp1c5L-JAPj92eUlFuZ58xtunlcza_mDy5LPnXXl/embed?start=false&loop=false&delayms=60000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
